@@ -8,7 +8,7 @@
 └─────────────────────────────────────────────────────────┘
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&lines=Anantharaman+TS;Final-Year+B.Tech+CSE+(AI)%2C+Amrita;Reinforcement+Learning+%2B+Statistical+Biophysics;Building+GenAI%2C+Agentic+AI+%26+Full-Stack+Systems;Currently%3A+Chemotactic+Escape+from+Information+Traps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=39FF14&background=0D1117&center=true&vCenter=true&width=950&lines=Anantharaman+TS;Final-Year+B.Tech+CSE+(AI)%2C+Amrita;Reinforcement+Learning+%2B+Statistical+Biophysics;Building+GenAI%2C+Agentic+AI+%26+Full-Stack+Systems;Currently%3A+Chemotactic+Escape+from+Information+Traps" alt="Typing SVG" />
 
 <br/>
 

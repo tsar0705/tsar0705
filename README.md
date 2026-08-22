@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117)](https://www.linkedin.com/in/anantharaman-ts-95862924a/)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117)](mailto:anantharaaman.ts@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0D1117)](https://leetcode.com/u/Uc1HZtv4EJ/)
-[![Profile Views](https://komarev.com/ghpvc/?username=tsar0705&style=for-the-badge&color=39FF14&labelColor=0D1117)](https://github.com/tsar0705)
 
 </div>
 

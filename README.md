@@ -157,12 +157,12 @@ Agentic assistant on FastAPI + Next.js using the Model Context Protocol to conne
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=tsar0705&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14&bg_color=0D1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsar0705&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0D1117"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=tsar0705&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14&bg_color=0D1117"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tsar0705&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0D1117"/>
 
 <img src="https://streak-stats.demolab.com?user=tsar0705&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6e7681"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tsar0705&theme=matrix&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=tsar0705&theme=matrix&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 

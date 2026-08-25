@@ -60,6 +60,7 @@
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Apache_Spark-000000?style=for-the-badge&logo=apachespark&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=39FF14&labelColor=0D1117"/>
@@ -91,6 +92,24 @@
 </pre>
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [PointGoalNav-PPO](https://github.com/tsar0705/point-goal-ppo)
+Custom Gymnasium environment — 2D point-robot, domain-randomized obstacle avoidance — trained with PPO (Stable-Baselines3). 88.3% success rate over 300 held-out episodes, generalizing across obstacle count. Reward-shaping and debugging fully documented.
+
+`Gymnasium` `Stable-Baselines3` `PPO` `Reward Shaping`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [KITTI Autonomous Perception & Risk](https://github.com/tsar0705/kitti-autonomous-perception-risk)
+Real-time perception-to-risk pipeline on the KITTI driving dataset — CUDA-accelerated monocular depth (MiDaS), YOLOv8 detection + SORT tracking, and Essential-Matrix pose estimation fused into a live collision-risk dashboard.
+
+`PyTorch` `CUDA` `OpenCV` `YOLOv8`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -195,6 +214,7 @@ Agentic assistant on FastAPI + Next.js using the Model Context Protocol to conne
 
 ```
 [research]   Kramers escape-rate theory → non-Markovian (Grote-Hynes) extensions
+[applied]    RL for continuous control — PPO reward shaping, domain randomization
 [systems]    Parameter-efficient adaptation for large audio-language models
 [practice]   Backtracking, DP, and output-ordering edge cases (competitive programming)
 ```

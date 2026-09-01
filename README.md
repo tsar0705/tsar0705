@@ -54,6 +54,7 @@
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14&labelColor=0D1117"/>
 
 **ML / RL / Data**
 <br/>
@@ -71,6 +72,7 @@
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=39FF14&labelColor=0D1117"/>
 
@@ -161,6 +163,89 @@ MILP-driven decision-support dashboard for e-commerce logistics — facility loc
 Agentic assistant on FastAPI + Next.js using the Model Context Protocol to connect LLMs to local tools — semantic + episodic memory via MongoDB/ChromaDB, task orchestration via Celery/Redis.
 
 `FastAPI` `MCP` `LangChain` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🫀 [ECG + PPG AFib Detection](https://github.com/tsar0705/ECG-PPG-AFib-Detection)
+Multimodal deep learning pipeline for atrial fibrillation detection from dual-channel ECG + PPG signals. Converts WFDB recordings into log-STFT spectrograms and classifies rhythm irregularities with a CNN + BiLSTM hybrid, including subject-level splitting and full ROC/PR/threshold evaluation.
+
+`PyTorch` `CNN-BiLSTM` `Signal Processing` `WFDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 [Spatial-Text2PDE](https://github.com/tsar0705/Spatial-Text2PDE)
+End-to-end pipeline for 3D CFD flow simulation using Fourier Neural Operators, a 3D autoencoder, and Diffusion Transformers. Covers mesh-to-grid preprocessing, latent-space refinement, DDIM sampling, and physics-aware flow reconstruction.
+
+`FNO` `Diffusion Transformers` `DDIM` `CFD`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 [Climate Tipping-Point EWS](https://github.com/tsar0705/climate-tipping-point-ews)
+Research-grade framework combining classical time series models (ARIMA/SARIMA/VAR/VECM/GARCH) with deep learning (LSTM/GRU/CNN-LSTM) and hybrid ensembles to detect early-warning signals and forecast climate tipping points from ERA5-style temperature and precipitation data.
+
+`ARIMA` `LSTM/GRU` `Time Series` `Ensembles`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [RAG Chatbot with Memory](https://github.com/tsar0705/rag-chatbot-with-memory)
+RAG chatbot built with LangChain, Gemini, FAISS, and Streamlit. Supports runtime PDF/CSV uploads that update the vector knowledge base on the fly, plus multi-turn conversational memory — no restart needed to add documents or maintain context.
+
+`LangChain` `Gemini` `FAISS` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Skylark Agent — Conversational BI](https://github.com/tsar0705/skylark-agent)
+Conversational BI agent analyzing live monday.com Work Orders and Deals data via Groq-powered tool calling — data normalization, quality checks, pipeline insights, receivables analysis, and automated leadership reports.
+
+`Groq` `Tool Calling` `monday.com API` `BI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [Enterprise AI Platform](https://github.com/tsar0705/empty-window)
+Platform for commercial intelligence, AI-powered advertising, knowledge graphs, and workflow/lifecycle automation. FastAPI + React + PostgreSQL + Docker with JWT auth and Google Vertex AI Imagen for production-quality marketing creative generation.
+
+`FastAPI` `React` `PostgreSQL` `Vertex AI`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<pre>
+┌─────────────────────────────────────────────────────────┐
+│  guest@tsar0705:~$ ls system-design/ --practice           │
+└─────────────────────────────────────────────────────────┘
+</pre>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [Library Management System (LLD)](https://github.com/tsar0705/library-management-system)
+Low-level design in Java — book cataloging, member registration, and issue/return workflows using clean OOP and SOLID principles, with repository-based storage abstraction and custom domain exceptions.
+
+`Java` `OOP` `SOLID` `LLD`
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 [News Feed System (HLD)](https://github.com/tsar0705/news-feed-system-hld)
+High-level design for a scalable news feed system (Facebook/Instagram/Twitter-style) — hybrid push/pull feed generation, DB schema, API design, caching, sharding, and fault tolerance.
+
+`System Design` `HLD` `Caching` `Sharding`
 
 </td>
 </tr>
